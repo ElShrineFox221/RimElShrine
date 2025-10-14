@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  <!-- ZH-->
-  <!-- Luna Staff-->
-  <ELS_Thing_LunaStaff.label>LunaStaff</ELS_Thing_LunaStaff.label>
-  <ELS_Thing_LunaStaff.description>Weapon for debug.</ELS_Thing_LunaStaff.description>
-  <ELS_Thing_LunaStaff.tools.head.label>Head</ELS_Thing_LunaStaff.tools.head.label>
-</LanguageData>

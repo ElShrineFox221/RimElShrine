@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Energy Shields Extension</name>
+	<name>Shield Expanded</name>
 	<author>FoxMo</author>
 	<packageId>FoxMo.RimElShrine.Shields</packageId>
+	<modVersion>1.1.0</modVersion>
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
@@ -15,8 +16,10 @@
     </li>
 	</modDependencies>
 	<description>
-添加了可建造的护盾发生器与由护盾、服务器单元和控制终端组成的护盾网络，添加了机械液制造配方，并随之扩展了一类肢体再生效果的机械液。每个内容均添加了对应科研项目。模组各项数据均可在模组设置中调整。
+与Combat Extended兼容
+添加了可建造的护盾发生器与由护盾、服务器单元和控制终端组成的护盾网络；添加了一系列可以抵御多种伤害的护盾腰带；添加了机械液制造配方，并随之扩展了一类肢体再生效果的机械液；每个对应项目均添加了对应研究科技。
 
-Adds constructible shield generators and a shield network composed of shields, server units, and control terminals. Adds Mech Serum production recipes, along with an expanded line of limb regeneration serums. Corresponding research projects are included for each addition. All mod data is configurable in the mod settings.
+Compatible with Combat Extended
+Adds constructible shield generators and a shield network composed of shields, server units, and control terminals. Adds a series of shield belts capable of resisting various types of damage. Adds Mech Serum production recipes, along with an expanded line of limb regeneration serums. Corresponding research projects are included for each addition. All mod data is configurable in the mod settings.
 </description>
 </ModMetaData>

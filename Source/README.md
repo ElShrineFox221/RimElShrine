@@ -2,5 +2,8 @@
 
 1 mods is included now:
 
-+ RimElShrine.Shields (Energy Shield Extension)
-+ future plan
+1. RimElShrine.Shields (Energy Shield Extension)
+   + RimElShrine
+   + RimElShrine.Shields
+   + RimElSrhine.Shields.CE
+2. future plan
