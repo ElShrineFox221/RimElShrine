@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- ZH-->
+  <!-- ELS_Trait_StableMindset -->
+  <ELS_Trait_StableMindset.degreeDatas.els_trait_stablemindset.label>Stable Mindset</ELS_Trait_StableMindset.degreeDatas.els_trait_stablemindset.label>
+  <ELS_Trait_StableMindset.degreeDatas.els_trait_stablemindset.description>{PAWN_nameDef} has a stable mindset. {PAWN_pronoun} won't get too satisfied nor stay down for long, as {PAWN_possessive} mood always remains relatively stable.</ELS_Trait_StableMindset.degreeDatas.els_trait_stablemindset.description>
+</LanguageData>

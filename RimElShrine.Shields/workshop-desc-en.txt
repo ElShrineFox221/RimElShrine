@@ -1,0 +1,54 @@
+[code][b]Languages: [/b]Simplified Chinese, English(Machine Translated)[/code]
+
+All data for this mod can be adjusted in the mod settings, and each content section can be freely enabled or disabled (requires a game restart).
+
+Adds constructible shield generators and a shield network composed of shields, server units, and control terminals. Adds a series of shield belts capable of resisting various types of damage. Adds Mech Serum production recipes, expanding them to include a type with limb regeneration effects.
+
+Corresponding research projects are added for each content group.
+
+[hr][/hr]
+
+[h2]Content Groups[/h2]
+
+[h3]Shield Buildings & Shield Network[/h3]
+Allows the construction of Shield Generator buildings. Allows multiple Shield Generators, Terminals, and Server Units to be connected into a Shield Network via the power grid. Shields in the network receive stat upgrades (max radius, min radius, charge speed, max energy, etc.) based on upgrade resources allocated by the Control Terminal.
+[list]
+[]Kinetic Shield Generator: A constructible shield. Its energy loss upon hit is based on the projectile's kinetic energy or damage value. The shield itself can withstand EMP damage. It can be set to intercept projectiles based on: hostility (intercept/non-hostile), direction (inbound/outbound), trajectory (arcing/direct fire), and can destroy explosive projectiles preventing their explosion.
+[]Shield Control Terminal: Controls the allocation of upgrade resources for its Shield Network. If no terminal exists in the network, upgrade resources cannot be applied, and shield generators recover energy at a slow rate.
+[]Shield Server Unit: Provides allocatable upgrade resources for the network.
+[]Shield Network Tech: Kinetic Shield Generator technology and Shield Network technology, unlocked after Precision Rifling.
+[/list]
+[h3]Shield Equipment[/h3]
+[list]
+[]ES0~2 Series Shield Belts: A series of shield belts that allow weapon use while worn. Advanced models can absorb environmental damage (including fire, explosions, lightning), provide shooting accuracy and aim speed bonuses, and also absorb melee and EMP damage.
+[]ES3 Shield Belt: A shield model that rapidly completes recharge by causing minor bloodloss in the wearer.
+[*]ES Shield Belt Tech: Subsequent research branching from the vanilla shield belt, enabling the manufacture of improved shields.
+[/list]
+[h3]Mech Serums[/h3]
+[list]
+[*]Empty Mech Serum: An intermediate product used for synthesizing other Mech Serums.
+[]Regenerator Mech Serum Series: Applies a limb regeneration effect to the user, gradually repairing damaged limbs over time.
+[]Vanilla Mech Serum Recipes: Recipes for synthesizing Healer Mech Serums and Resurrector Mech Serums.
+[*]Mech Serum Production Tech: Basic and Advanced Mech Serum Production, unlocking different tiers of serum manufacturing.
+[/list]
+
+[h2]Configurability[/h2]
+Various numerical values are configurable in the mod settings, including: Damage absorption multipliers for each type of ES Shield Belt, Shield Network stat upgrade multipliers, Limb Regeneration effect settings, and more.
+
+[hr][/hr]
+[h2]How It Works & Compatibility[/h2]
+
+The expanded shield belt series is rewritten by inheriting from the vanilla CompShield. The network shields are rewritten with reference to CompProjectileInterceptor, constructing a ShieldNet class indexed by the PowerNet class. Recipes, research projects, etc., are added normally.
+
+Under normal circumstances, there should be no compatibility issues.
+
+Specifically compatible with the following mod(s):
+[list]
+[*]CE (Combat Extended);
+[/list]
+
+[hr][/hr]
+
+[h2]Note[/h2]
+This is my first RimWorld mod. Please leave a comment for any bugs, I'll fix them periodically ♪(´▽｀)
+PS: Refactored the entire code framework... maintaining/updating the mod should be easier now... hopefully? :D

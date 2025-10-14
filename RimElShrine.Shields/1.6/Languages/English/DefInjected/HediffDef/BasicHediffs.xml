@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- ZH-->
+  <!-- Vetch-->
+  <ELS_Hediff_Vetch.label>Vetch</ELS_Hediff_Vetch.label>
+  <ELS_Hediff_Vetch.description>A wisp of errant musings from a distant world's deity lingers in the mind, thus begins the story.</ELS_Hediff_Vetch.description>
+  <ELS_Hediff_Vetch.labelNoun>A Wisp of Thought</ELS_Hediff_Vetch.labelNoun>
+  <ELS_Hediff_Vetch.stages.els_hediff_vetch_s0.label>Myth and Enslavement</ELS_Hediff_Vetch.stages.els_hediff_vetch_s0.label>
+  <ELS_Hediff_Vetch.stages.els_hediff_vetch_s1.label>Court and Lord</ELS_Hediff_Vetch.stages.els_hediff_vetch_s1.label>
+  <ELS_Hediff_Vetch.stages.els_hediff_vetch_s2.label>Heresy and Extinction</ELS_Hediff_Vetch.stages.els_hediff_vetch_s2.label>
+  <ELS_Hediff_Vetch.stages.els_hediff_vetch_s3.label>Relic and Ruin</ELS_Hediff_Vetch.stages.els_hediff_vetch_s3.label>
+  <ELS_Hediff_Vetch.stages.els_hediff_vetch_s4.label>World and War</ELS_Hediff_Vetch.stages.els_hediff_vetch_s4.label>
+  <ELS_Hediff_Vetch.stages.els_hediff_vetch_s5.label>Fresh Snow and Sunrise</ELS_Hediff_Vetch.stages.els_hediff_vetch_s5.label>
+
+  <!-- LimbsRegen-->
+  <ELS_Hediff_LimbsRegen.label>Limb Regeneration</ELS_Hediff_LimbsRegen.label>
+  <ELS_Hediff_LimbsRegen.description>Limb regeneration.</ELS_Hediff_LimbsRegen.description>
+
+  <!-- Consciousness -->
+  <ELS_Hediff_BasicStatusModification_Consciousness.label>Consciousness Modification</ELS_Hediff_BasicStatusModification_Consciousness.label>
+  <ELS_Hediff_BasicStatusModification_Consciousness.labelNoun>A Modification</ELS_Hediff_BasicStatusModification_Consciousness.labelNoun>
+  <ELS_Hediff_BasicStatusModification_Consciousness.description>A status modification primarily focused on consciousness.</ELS_Hediff_BasicStatusModification_Consciousness.description>
+  <ELS_Hediff_BasicStatusModification_Consciousness.stages.0.overrideLabel>Comatose</ELS_Hediff_BasicStatusModification_Consciousness.stages.0.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Consciousness.stages.1.overrideLabel>Stupor</ELS_Hediff_BasicStatusModification_Consciousness.stages.1.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Consciousness.stages.2.overrideLabel>Groggy</ELS_Hediff_BasicStatusModification_Consciousness.stages.2.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Consciousness.stages.3.overrideLabel>Clear</ELS_Hediff_BasicStatusModification_Consciousness.stages.3.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Consciousness.stages.4.overrideLabel>Focused</ELS_Hediff_BasicStatusModification_Consciousness.stages.4.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Consciousness.stages.5.overrideLabel>Sharp</ELS_Hediff_BasicStatusModification_Consciousness.stages.5.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Consciousness.stages.6.overrideLabel>Hyperaware</ELS_Hediff_BasicStatusModification_Consciousness.stages.6.overrideLabel>
+  <!-- Moving -->
+  <ELS_Hediff_BasicStatusModification_Moving.label>Moving Modification</ELS_Hediff_BasicStatusModification_Moving.label>
+  <ELS_Hediff_BasicStatusModification_Moving.labelNoun>A Modification</ELS_Hediff_BasicStatusModification_Moving.labelNoun>
+  <ELS_Hediff_BasicStatusModification_Moving.description>A status modification primarily focused on moving ability.</ELS_Hediff_BasicStatusModification_Moving.description>
+  <ELS_Hediff_BasicStatusModification_Moving.stages.0.overrideLabel>Restrained</ELS_Hediff_BasicStatusModification_Moving.stages.0.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Moving.stages.1.overrideLabel>Sluggish</ELS_Hediff_BasicStatusModification_Moving.stages.1.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Moving.stages.2.overrideLabel>Shambling</ELS_Hediff_BasicStatusModification_Moving.stages.2.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Moving.stages.3.overrideLabel>Normal</ELS_Hediff_BasicStatusModification_Moving.stages.3.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Moving.stages.4.overrideLabel>Nimble</ELS_Hediff_BasicStatusModification_Moving.stages.4.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Moving.stages.5.overrideLabel>Swift</ELS_Hediff_BasicStatusModification_Moving.stages.5.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Moving.stages.6.overrideLabel>Fleet</ELS_Hediff_BasicStatusModification_Moving.stages.6.overrideLabel>
+  <!-- Manipulation -->
+  <ELS_Hediff_BasicStatusModification_Manipulation.label>Manipulation Modification</ELS_Hediff_BasicStatusModification_Manipulation.label>
+  <ELS_Hediff_BasicStatusModification_Manipulation.labelNoun>Manipulation Mod</ELS_Hediff_BasicStatusModification_Manipulation.labelNoun>
+  <ELS_Hediff_BasicStatusModification_Manipulation.description>A status modification primarily focused on manipulation ability.</ELS_Hediff_BasicStatusModification_Manipulation.description>
+  <ELS_Hediff_BasicStatusModification_Manipulation.stages.0.overrideLabel>Paralyzed</ELS_Hediff_BasicStatusModification_Manipulation.stages.0.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Manipulation.stages.1.overrideLabel>Clumsy</ELS_Hediff_BasicStatusModification_Manipulation.stages.1.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Manipulation.stages.2.overrideLabel>Inept</ELS_Hediff_BasicStatusModification_Manipulation.stages.2.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Manipulation.stages.3.overrideLabel>Normal</ELS_Hediff_BasicStatusModification_Manipulation.stages.3.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Manipulation.stages.4.overrideLabel>Dexterous</ELS_Hediff_BasicStatusModification_Manipulation.stages.4.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Manipulation.stages.5.overrideLabel>Proficient</ELS_Hediff_BasicStatusModification_Manipulation.stages.5.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Manipulation.stages.6.overrideLabel>Lightning</ELS_Hediff_BasicStatusModification_Manipulation.stages.6.overrideLabel>
+  <!-- Talking -->
+  <ELS_Hediff_BasicStatusModification_Talking.label>Talking Modification</ELS_Hediff_BasicStatusModification_Talking.label>
+  <ELS_Hediff_BasicStatusModification_Talking.labelNoun>A Modification</ELS_Hediff_BasicStatusModification_Talking.labelNoun>
+  <ELS_Hediff_BasicStatusModification_Talking.description>A status modification primarily focused on talking ability.</ELS_Hediff_BasicStatusModification_Talking.description>
+  <ELS_Hediff_BasicStatusModification_Talking.stages.0.overrideLabel>Mute</ELS_Hediff_BasicStatusModification_Talking.stages.0.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Talking.stages.1.overrideLabel>Slurred</ELS_Hediff_BasicStatusModification_Talking.stages.1.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Talking.stages.2.overrideLabel>Halting</ELS_Hediff_BasicStatusModification_Talking.stages.2.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Talking.stages.3.overrideLabel>Normal</ELS_Hediff_BasicStatusModification_Talking.stages.3.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Talking.stages.4.overrideLabel>Fluent</ELS_Hediff_BasicStatusModification_Talking.stages.4.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Talking.stages.5.overrideLabel>Articulate</ELS_Hediff_BasicStatusModification_Talking.stages.5.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Talking.stages.6.overrideLabel>Melodious</ELS_Hediff_BasicStatusModification_Talking.stages.6.overrideLabel>
+  <!-- Eating -->
+  <ELS_Hediff_BasicStatusModification_Eating.label>Eating Modification</ELS_Hediff_BasicStatusModification_Eating.label>
+  <ELS_Hediff_BasicStatusModification_Eating.labelNoun>A Modification</ELS_Hediff_BasicStatusModification_Eating.labelNoun>
+  <ELS_Hediff_BasicStatusModification_Eating.description>A status modification primarily focused on eating ability.</ELS_Hediff_BasicStatusModification_Eating.description>
+  <ELS_Hediff_BasicStatusModification_Eating.stages.0.overrideLabel>Fasting</ELS_Hediff_BasicStatusModification_Eating.stages.0.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Eating.stages.1.overrideLabel>Choking</ELS_Hediff_BasicStatusModification_Eating.stages.1.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Eating.stages.2.overrideLabel>Slow</ELS_Hediff_BasicStatusModification_Eating.stages.2.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Eating.stages.3.overrideLabel>Normal</ELS_Hediff_BasicStatusModification_Eating.stages.3.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Eating.stages.4.overrideLabel>Fast</ELS_Hediff_BasicStatusModification_Eating.stages.4.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Eating.stages.5.overrideLabel>Voracious</ELS_Hediff_BasicStatusModification_Eating.stages.5.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Eating.stages.6.overrideLabel>Devouring</ELS_Hediff_BasicStatusModification_Eating.stages.6.overrideLabel>
+  <!-- Sensation -->
+  <ELS_Hediff_BasicStatusModification_Sensation.label>Sensation Modification</ELS_Hediff_BasicStatusModification_Sensation.label>
+  <ELS_Hediff_BasicStatusModification_Sensation.labelNoun>A Modification</ELS_Hediff_BasicStatusModification_Sensation.labelNoun>
+  <ELS_Hediff_BasicStatusModification_Sensation.description>A status modification primarily focused on sensation ability.</ELS_Hediff_BasicStatusModification_Sensation.description>
+  <ELS_Hediff_BasicStatusModification_Sensation.stages.0.overrideLabel>Numb</ELS_Hediff_BasicStatusModification_Sensation.stages.0.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Sensation.stages.1.overrideLabel>Dull</ELS_Hediff_BasicStatusModification_Sensation.stages.1.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Sensation.stages.2.overrideLabel>Faint</ELS_Hediff_BasicStatusModification_Sensation.stages.2.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Sensation.stages.3.overrideLabel>Normal</ELS_Hediff_BasicStatusModification_Sensation.stages.3.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Sensation.stages.4.overrideLabel>Sharp</ELS_Hediff_BasicStatusModification_Sensation.stages.4.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Sensation.stages.5.overrideLabel>Clear</ELS_Hediff_BasicStatusModification_Sensation.stages.5.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Sensation.stages.6.overrideLabel>Synesthetic</ELS_Hediff_BasicStatusModification_Sensation.stages.6.overrideLabel>
+  <!-- Breathing -->
+  <ELS_Hediff_BasicStatusModification_Breathing.label>Breathing Modification</ELS_Hediff_BasicStatusModification_Breathing.label>
+  <ELS_Hediff_BasicStatusModification_Breathing.labelNoun>A Modification</ELS_Hediff_BasicStatusModification_Breathing.labelNoun>
+  <ELS_Hediff_BasicStatusModification_Breathing.description>A status modification primarily focused on breathing ability.</ELS_Hediff_BasicStatusModification_Breathing.description>
+  <ELS_Hediff_BasicStatusModification_Breathing.stages.0.overrideLabel>Suffocating</ELS_Hediff_BasicStatusModification_Breathing.stages.0.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Breathing.stages.1.overrideLabel>Labored</ELS_Hediff_BasicStatusModification_Breathing.stages.1.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Breathing.stages.2.overrideLabel>Shallow</ELS_Hediff_BasicStatusModification_Breathing.stages.2.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Breathing.stages.3.overrideLabel>Normal</ELS_Hediff_BasicStatusModification_Breathing.stages.3.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Breathing.stages.4.overrideLabel>Smooth</ELS_Hediff_BasicStatusModification_Breathing.stages.4.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Breathing.stages.5.overrideLabel>Deep</ELS_Hediff_BasicStatusModification_Breathing.stages.5.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Breathing.stages.6.overrideLabel>Rhythmic</ELS_Hediff_BasicStatusModification_Breathing.stages.6.overrideLabel>
+  <!-- BloodCirculation -->
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.label>Blood Circulation Modification</ELS_Hediff_BasicStatusModification_BloodCirculation.label>
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.labelNoun>A Modification</ELS_Hediff_BasicStatusModification_BloodCirculation.labelNoun>
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.description>A status modification primarily focused on blood circulation.</ELS_Hediff_BasicStatusModification_BloodCirculation.description>
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.stages.0.overrideLabel>Stagnant</ELS_Hediff_BasicStatusModification_BloodCirculation.stages.0.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.stages.1.overrideLabel>Sluggish</ELS_Hediff_BasicStatusModification_BloodCirculation.stages.1.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.stages.2.overrideLabel>Poor</ELS_Hediff_BasicStatusModification_BloodCirculation.stages.2.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.stages.3.overrideLabel>Normal</ELS_Hediff_BasicStatusModification_BloodCirculation.stages.3.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.stages.4.overrideLabel>Good</ELS_Hediff_BasicStatusModification_BloodCirculation.stages.4.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.stages.5.overrideLabel>Strong</ELS_Hediff_BasicStatusModification_BloodCirculation.stages.5.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_BloodCirculation.stages.6.overrideLabel>Vigorous</ELS_Hediff_BasicStatusModification_BloodCirculation.stages.6.overrideLabel>
+  <!-- Metabolism -->
+  <ELS_Hediff_BasicStatusModification_Metabolism.label>Metabolism Modification</ELS_Hediff_BasicStatusModification_Metabolism.label>
+  <ELS_Hediff_BasicStatusModification_Metabolism.labelNoun>A Modification</ELS_Hediff_BasicStatusModification_Metabolism.labelNoun>
+  <ELS_Hediff_BasicStatusModification_Metabolism.description>A status modification primarily focused on metabolism.</ELS_Hediff_BasicStatusModification_Metabolism.description>
+  <ELS_Hediff_BasicStatusModification_Metabolism.stages.0.overrideLabel>Stalled</ELS_Hediff_BasicStatusModification_Metabolism.stages.0.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Metabolism.stages.1.overrideLabel>Slow</ELS_Hediff_BasicStatusModification_Metabolism.stages.1.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Metabolism.stages.2.overrideLabel>Sluggish</ELS_Hediff_BasicStatusModification_Metabolism.stages.2.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Metabolism.stages.3.overrideLabel>Normal</ELS_Hediff_BasicStatusModification_Metabolism.stages.3.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Metabolism.stages.4.overrideLabel>Active</ELS_Hediff_BasicStatusModification_Metabolism.stages.4.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Metabolism.stages.5.overrideLabel>Rapid</ELS_Hediff_BasicStatusModification_Metabolism.stages.5.overrideLabel>
+  <ELS_Hediff_BasicStatusModification_Metabolism.stages.6.overrideLabel>Hyper</ELS_Hediff_BasicStatusModification_Metabolism.stages.6.overrideLabel>
+</LanguageData>

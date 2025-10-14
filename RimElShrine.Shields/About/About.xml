@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Energy Shields Extension</name>
+	<author>FoxMo</author>
+	<packageId>FoxMo.RimElShrine.Shields</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+    <li>
+        <packageId>brrainz.harmony</packageId>
+        <displayName>Harmony</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+	</modDependencies>
+	<description>
+添加了可建造的护盾发生器与由护盾、服务器单元和控制终端组成的护盾网络，添加了机械液制造配方，并随之扩展了一类肢体再生效果的机械液。每个内容均添加了对应科研项目。模组各项数据均可在模组设置中调整。
+
+Adds constructible shield generators and a shield network composed of shields, server units, and control terminals. Adds Mech Serum production recipes, along with an expanded line of limb regeneration serums. Corresponding research projects are included for each addition. All mod data is configurable in the mod settings.
+</description>
+</ModMetaData>

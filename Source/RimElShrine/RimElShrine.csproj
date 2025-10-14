@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>RimElShrine</RootNamespace>
+    <AssemblyName>RimElShrine</AssemblyName>
+    <Deterministic>true</Deterministic>
+    <LangVersion>13</LangVersion>
+    <Nullable>enable</Nullable>
+	<OutputPath>bin\</OutputPath>
+	<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	<DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Load\**" />
+    <EmbeddedResource Remove="Load\**" />
+    <None Remove="Load\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Krafs.Rimworld.Ref" Version="1.6.4566" />
+    <PackageReference Include="Lib.Harmony.Ref" Version="2.4.1" />
+  </ItemGroup>
+</Project>

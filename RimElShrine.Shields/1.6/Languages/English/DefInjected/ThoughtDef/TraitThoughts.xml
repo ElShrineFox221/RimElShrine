@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- ZH-->
+  <!-- ELS_TraitThought_StableMindset -->
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s0.label>Uneasy</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s0.label>
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s0.description>Things are going too well. I feel like something bad will happen soon.</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s0.description>
+
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s1.label>Concerned</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s1.label>
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s1.description>The current situation is acceptable, but it might turn worse.</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s1.description>
+  
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s2.label>Neutral</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s2.label>
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s2.description>Things are neither good nor bad. This is fine.</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s2.description>
+
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s3.label>Determined</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s3.label>
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s3.description>I can overcome these minor difficulties.</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s3.description>
+
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s4.label>Resilient</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s4.label>
+  <ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s4.description>Things can't get any worse. Just keep pushing forward.</ELS_TraitThought_StableMindset.stages.els_traitthought_stablemindset_s4.description>
+</LanguageData>

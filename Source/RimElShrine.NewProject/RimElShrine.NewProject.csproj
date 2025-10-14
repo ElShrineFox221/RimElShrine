@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net472</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <LangVersion>13</LangVersion>
+	  <Nullable>enable</Nullable>
+	  <RootNamespace>RimElShrine</RootNamespace>
+	  <OutputPath>..\..\RimElShrine.NewProject\1.6\Assemblies\</OutputPath>
+	  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	  <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RimElShrine\RimElShrine.csproj">
+      <Private>True</Private>
+      <CopyLocalSatelliteAssemblies>False</CopyLocalSatelliteAssemblies>
+    </ProjectReference>
+  </ItemGroup>
+
+</Project>

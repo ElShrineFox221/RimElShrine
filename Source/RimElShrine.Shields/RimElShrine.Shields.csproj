@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>RimElShrine</RootNamespace>
+    <AssemblyName>RimElShrine.Shields</AssemblyName>
+    <Deterministic>true</Deterministic>
+    <LangVersion>13</LangVersion>
+    <Nullable>enable</Nullable>
+	<OutputPath>..\..\RimElShrine.Shields\1.6\Assemblies\</OutputPath>
+	<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	<DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RimElShrine\RimElShrine.csproj">
+      <Private>True</Private>
+      <CopyLocalSatelliteAssemblies>False</CopyLocalSatelliteAssemblies>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
