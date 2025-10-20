@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Auto Refuel and Emergency Fuel Trade</name>
+	<author>FoxMo</author>
+	<packageId>FoxMo.RimElShrine.ShuttleFuel</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+    <li>
+        <packageId>brrainz.harmony</packageId>
+        <displayName>Harmony</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+	</modDependencies>
+	<description>因频繁地手动装填穿梭机燃料而感到厌烦？因穿梭机燃料耗尽而困住地图上无法移动？这个Mod为穿梭机添加了自动从货舱加载燃料，以及紧急燃料交易的选项，你可以在设置中配置这些！\n\nTired of constantly manually refueling your shuttle? Stranded on a map because your shuttle ran out of fuel? This mod adds automatic fuel loading from storage and emergency fuel trade options to shuttles - all configurable in settings!</description>
+</ModMetaData>

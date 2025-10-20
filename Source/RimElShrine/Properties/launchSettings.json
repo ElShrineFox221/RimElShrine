@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RimElShrine": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

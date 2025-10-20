@@ -6,4 +6,6 @@
    + RimElShrine
    + RimElShrine.Shields
    + RimElSrhine.Shields.CE
-2. future plan
+2. RimElShrine.ShuttleFule (TBC: Auto Refule & Emergency Fuel Trader)
+   + RimElShrine
+   + RimElShrine.ShuttleFule

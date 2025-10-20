@@ -52,3 +52,4 @@ ES护盾腰带各类型伤害吸收倍率、护盾网络属性升级倍率、肢
 [h2]留言[/h2]
 个人第一次制作Rimworld模组，Bug请留言，不定期修复♪(´▽｀)
 ps.重构了整个代码框架……之后做mod/维护更新应该轻松一点了……吧？:D
+pps.这里是GitHub仓库地址，[url=https://github.com/ElShrineFox221/RimElShrine]RimElShrine[/url]

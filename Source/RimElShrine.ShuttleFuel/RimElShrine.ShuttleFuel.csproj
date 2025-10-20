@@ -6,9 +6,17 @@
 	  <LangVersion>13</LangVersion>
 	  <Nullable>enable</Nullable>
 	  <RootNamespace>RimElShrine</RootNamespace>
-	  <OutputPath>..\..\RimElShrine.NewProject\1.6\Assemblies\</OutputPath>
+	  <OutputPath>..\..\RimElShrine.ShuttleFuel\1.6\Assemblies\</OutputPath>
 	  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 	  <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>embedded</DebugType>
   </PropertyGroup>
 
   <ItemGroup>

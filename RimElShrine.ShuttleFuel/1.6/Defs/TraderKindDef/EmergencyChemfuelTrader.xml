@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <TraderKindDef>
+        <defName>ELS_Trader_EmgChemfuelTrader</defName>
+        <label>Emergency chemfuel trader</label>
+        <orbital>true</orbital>
+        <stockGenerators>
+            <li Class="RimElShrine.Traders.StockGenerator_BuyAll" />
+        </stockGenerators>
+    </TraderKindDef>
+</Defs>

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimElShrine.Shields", "RimE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimElShrine.Shields.CE", "RimElShrine.Shields.Compatibility\RimElShrine.Shields.CE.csproj", "{F4DDA084-3E1A-4E71-A8EC-E71AE1B57083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimElShrine.NewProject", "RimElShrine.NewProject\RimElShrine.NewProject.csproj", "{885F3192-86F1-491A-BBC8-E80D120E0688}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimElShrine.ShuttleFuel", "RimElShrine.ShuttleFuel\RimElShrine.ShuttleFuel.csproj", "{885F3192-86F1-491A-BBC8-E80D120E0688}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

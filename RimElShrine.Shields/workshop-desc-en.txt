@@ -52,3 +52,4 @@ Specifically compatible with the following mod(s):
 [h2]Note[/h2]
 This is my first RimWorld mod. Please leave a comment for any bugs, I'll fix them periodically ♪(´▽｀)
 PS: Refactored the entire code framework... maintaining/updating the mod should be easier now... hopefully? :D
+PPS: GitHub repository here: [url=https://github.com/ElShrineFox221/RimElShrine]RimElShrine[/url]

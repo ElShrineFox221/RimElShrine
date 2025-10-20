@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- ZH-->
+    <!-- EmgTrade-->
+    <ShuttleFuel>穿梭机燃料贸易</ShuttleFuel>
+    <ShuttleFuelSetting_ShuttleFuelTitle_Tooltip>穿梭机燃料贸易相关参数配置</ShuttleFuelSetting_ShuttleFuelTitle_Tooltip>
+    <ShuttleFuelSetting_EmgTradeThresholdInt>紧急燃料贸易阈值（固定值）</ShuttleFuelSetting_EmgTradeThresholdInt>
+    <ShuttleFuelSetting_EmgTradeThresholdInt_Tooltip>紧急燃料贸易阈值，当穿梭机燃料低于该数值时，可使用紧急燃料贸易\n\n百分比与此任意生效即可</ShuttleFuelSetting_EmgTradeThresholdInt_Tooltip>
+    <ShuttleFuelSetting_EmgTradeThreshold>紧急燃料贸易阈值（百分比）</ShuttleFuelSetting_EmgTradeThreshold>
+    <ShuttleFuelSetting_EmgTradeThreshold_Tooltip>紧急燃料贸易阈值，当穿梭机燃料百分比低于此数值时，可使用紧急燃料贸易\n\n固定值与此任意生效即可</ShuttleFuelSetting_EmgTradeThreshold_Tooltip>
+    <ShuttleFuelSetting_EmgTradeWeightOffset>燃料商权重偏移</ShuttleFuelSetting_EmgTradeWeightOffset>
+    <ShuttleFuelSetting_EmgTradeWeightOffset_Tooltip>该值决定在燃料商生成中，距离和好感度的权重情况\n\n当该值为最小时，近距离的定居点更容易派出燃料商\n当该值最大时，关系更好的派系更容易派出燃料商</ShuttleFuelSetting_EmgTradeWeightOffset_Tooltip>
+    <ShuttleFuelSetting_EmgTraderPriceGoodwillOffset>燃料商价格偏移（关系）</ShuttleFuelSetting_EmgTraderPriceGoodwillOffset>
+    <ShuttleFuelSetting_EmgTraderPriceGoodwillOffset_Tooltip>在通过派系关系计算价格偏移时，该数值将与派系关系加算</ShuttleFuelSetting_EmgTraderPriceGoodwillOffset_Tooltip>
+    <ShuttleFuelSetting_EmgTradePriceDistanceFactor>燃料商价格偏移（距离）</ShuttleFuelSetting_EmgTradePriceDistanceFactor>
+    <ShuttleFuelSetting_EmgTradePriceDistanceFactor_Tooltip>在通过定居点距离计算价格偏移时，该数值将与定居点距离乘算</ShuttleFuelSetting_EmgTradePriceDistanceFactor_Tooltip>
+    <ShuttleFuelSetting_EmgTradeCooldownSeconds>紧急燃料贸易冷却</ShuttleFuelSetting_EmgTradeCooldownSeconds>
+    <ShuttleFuelSetting_EmgTradeCooldownSeconds_Tooltip>两次呼叫不同的紧急燃料贸易商之间的间隔秒数</ShuttleFuelSetting_EmgTradeCooldownSeconds_Tooltip>
+</LanguageData>
