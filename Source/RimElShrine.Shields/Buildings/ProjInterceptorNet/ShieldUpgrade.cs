@@ -51,7 +51,7 @@ namespace RimElShrine.Buildings.ProjInterceptorNet
         public void ClearResources()
         {
             MinRadiusResources = 0;
-            MaxEnergyResources = 0;
+            MaxRadiusResources = 0;
             RechargeSecondsResources = 0;
             RechargeRateResources = 0;
             MaxEnergyResources = 0;

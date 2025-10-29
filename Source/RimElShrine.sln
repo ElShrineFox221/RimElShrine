@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimElShrine.Shields.CE", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimElShrine.ShuttleFuel", "RimElShrine.ShuttleFuel\RimElShrine.ShuttleFuel.csproj", "{885F3192-86F1-491A-BBC8-E80D120E0688}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimElShrine.MoveMonolith", "RimElShrine.MoveMonolith\RimElShrine.MoveMonolith.csproj", "{114B5BC8-3793-4C6A-A512-2CF2BDF1D448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{885F3192-86F1-491A-BBC8-E80D120E0688}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{885F3192-86F1-491A-BBC8-E80D120E0688}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{885F3192-86F1-491A-BBC8-E80D120E0688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114B5BC8-3793-4C6A-A512-2CF2BDF1D448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114B5BC8-3793-4C6A-A512-2CF2BDF1D448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114B5BC8-3793-4C6A-A512-2CF2BDF1D448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114B5BC8-3793-4C6A-A512-2CF2BDF1D448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,7 +3,7 @@
 	<name>Shield Expanded</name>
 	<author>FoxMo</author>
 	<packageId>FoxMo.RimElShrine.Shields</packageId>
-	<modVersion>1.1.0</modVersion>
+	<modVersion>1.1.1</modVersion>
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>

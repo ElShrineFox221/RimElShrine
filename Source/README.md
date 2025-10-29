@@ -1,6 +1,6 @@
 # RimElSrhine Mods
 
-1 mods is included now:
+3 mods is included now:
 
 1. RimElShrine.Shields (Energy Shield Extension)
    + RimElShrine
@@ -9,3 +9,6 @@
 2. RimElShrine.ShuttleFule (TBC: Auto Refule & Emergency Fuel Trader)
    + RimElShrine
    + RimElShrine.ShuttleFule
+3. RimElShrine.MoveMonolith (Take The Monolith Go)
+   + RimElShrine
+   + RimElShrine.MoveMonolith

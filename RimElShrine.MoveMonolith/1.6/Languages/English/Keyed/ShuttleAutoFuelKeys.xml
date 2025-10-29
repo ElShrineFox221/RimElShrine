@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN -->
+    <RimElShrineShuttleMod>Shuttle Refuel Mod</RimElShrineShuttleMod>
+    <!-- Refuel-->
+    <AutoRefuel>Toggle Auto-Refuel</AutoRefuel>
+    <AutoRefuelDesc>Toggles automatic refueling. When enabled, fuel will be automatically replenished from stockpiles according to the set fuel level.</AutoRefuelDesc>
+    <AutoRefuelLevel>Set Fuel Level</AutoRefuelLevel>
+    <AutoRefuelLevelDesc>Sets the fuel level at which fuel will be automatically replenished from stockpiles.</AutoRefuelLevelDesc>
+    <!-- Msg-->
+    <AutoRefueledFullMsg>Automatically refueled the shuttle with {0} units of fuel from stockpiles, reached the target fuel level of {1}.</AutoRefueledFullMsg>
+    <AutoRefueledMsg>Automatically refueled the shuttle with {0} units of fuel from stockpiles, but stockpiles are insufficient to reach the target fuel level of {1}.</AutoRefueledMsg>
+
+    <!-- EmgTrade-->
+    <EmgTrade>Call for Fuel</EmgTrade>
+    <EmgTradeDesc>Call for an emergency fuel trade with a nearby settlement. The fuel will be delivered directly to your caravan.</EmgTradeDesc>
+    <EmgTradeDisabledReason>There is still sufficient fuel in the current caravan or shuttle.</EmgTradeDisabledReason>
+    <FoundNoEmgFuelTrader>No other fuel suppliers found.</FoundNoEmgFuelTrader>
+    <NoNegotiatorNotice>Cannot complete: there is no colonist in the shuttle or caravan capable of negotiating trades.</NoNegotiatorNotice>
+    <SendNewEmgChemfuelTrader>Call fuel trader from another settlement</SendNewEmgChemfuelTrader>
+    <CurrentFuelTradersListNotice>Fuel traders are currently available from the following settlements:</CurrentFuelTradersListNotice>
+</LanguageData>

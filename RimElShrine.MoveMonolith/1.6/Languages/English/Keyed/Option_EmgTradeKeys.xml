@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN -->
+    <!-- EmgTrade-->
+    <ShuttleFuel>Shuttle Fuel Trade</ShuttleFuel>
+    <ShuttleFuelSetting_ShuttleFuelTitle_Tooltip>Configuration of parameters related to shuttle fuel trade</ShuttleFuelSetting_ShuttleFuelTitle_Tooltip>
+    <ShuttleFuelSetting_EmgTradeThresholdInt>Emergency Fuel Trade Threshold (Fixed Value)</ShuttleFuelSetting_EmgTradeThresholdInt>
+    <ShuttleFuelSetting_EmgTradeThresholdInt_Tooltip>Emergency fuel trade threshold. Emergency fuel trade becomes available when shuttle fuel drops below this value.\n\nEither the percentage OR this fixed value can trigger the trade.</ShuttleFuelSetting_EmgTradeThresholdInt_Tooltip>
+    <ShuttleFuelSetting_EmgTradeThreshold>Emergency Fuel Trade Threshold (Percentage)</ShuttleFuelSetting_EmgTradeThreshold>
+    <ShuttleFuelSetting_EmgTradeThreshold_Tooltip>Emergency fuel trade threshold. Emergency fuel trade becomes available when shuttle fuel percentage drops below this value.\n\nEither this percentage OR the fixed value can trigger the trade.</ShuttleFuelSetting_EmgTradeThreshold_Tooltip>
+    <ShuttleFuelSetting_EmgTradeWeightOffset>Fuel Trader Weight Offset</ShuttleFuelSetting_EmgTradeWeightOffset>
+    <ShuttleFuelSetting_EmgTradeWeightOffset_Tooltip>This value determines the weighting between distance and goodwill when generating fuel traders.\n\nAt minimum value, nearby settlements are more likely to send fuel traders.\nAt maximum value, factions with better relations are more likely to send fuel traders.</ShuttleFuelSetting_EmgTradeWeightOffset_Tooltip>
+    <ShuttleFuelSetting_EmgTraderPriceGoodwillOffset>Fuel Trader Price Offset (Goodwill)</ShuttleFuelSetting_EmgTraderPriceGoodwillOffset>
+    <ShuttleFuelSetting_EmgTraderPriceGoodwillOffset_Tooltip>When calculating price offset based on faction relations, this value will be added to the faction goodwill.</ShuttleFuelSetting_EmgTraderPriceGoodwillOffset_Tooltip>
+    <ShuttleFuelSetting_EmgTradePriceDistanceFactor>Fuel Trader Price Offset (Distance)</ShuttleFuelSetting_EmgTradePriceDistanceFactor>
+    <ShuttleFuelSetting_EmgTradePriceDistanceFactor_Tooltip>When calculating price offset based on settlement distance, this value will be multiplied by the settlement distance.</ShuttleFuelSetting_EmgTradePriceDistanceFactor_Tooltip>
+    <ShuttleFuelSetting_EmgTradeCooldownSeconds>Emergency Fuel Trade Cooldown</ShuttleFuelSetting_EmgTradeCooldownSeconds>
+    <ShuttleFuelSetting_EmgTradeCooldownSeconds_Tooltip>Cooldown time in seconds between calling different emergency fuel traders.</ShuttleFuelSetting_EmgTradeCooldownSeconds_Tooltip>
+</LanguageData>

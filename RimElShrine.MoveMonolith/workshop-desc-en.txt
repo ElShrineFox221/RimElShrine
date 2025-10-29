@@ -1,0 +1,32 @@
+[code][b]Language: [/b]Simplified Chinese, English[/code]
+
+Tired of constantly manually refueling your shuttle? Stranded on a map because your shuttle ran out of fuel? This mod adds automatic fuel loading from storage and emergency fuel trade options to shuttles - all configurable in settings!
+
+[hr][/hr]
+
+[h1]Features[/h1]
+
+[h2]Automatic Fuel Loading from Storage[/h2]
+
+Adds a set of buttons to shuttles, allowing you to configure automatic fuel loading from your stockpiles.
+
+[h2]Emergency Fuel Suppliers[/h2]
+
+Adds a special orbital trader that only appears under specific circumstances: the Emergency Fuel Supplier. When your shuttle is stranded on a map due to insufficient fuel, your caravan can call for fuel suppliers from nearby random factions. They will carry exactly the amount of fuel that matches your shuttle's current capacity, but at premium prices - depending on your relations with their faction. Your allies will happily provide fuel at market prices, while hostile factions will seize this opportunity to extort you!
+
+Fuel suppliers only trade with caravans that currently have insufficient shuttle fuel, and their prices also vary based on the distance from their point of origin.
+
+Considering that stranded shuttle caravans might lack suitable trade goods, they accept all of your tradable items!
+
+[h1]Compatibility & How It Works[/h1]
+
+No known incompatibilities at present.
+
+Dynamically adds refuel components to shuttles, compatible with all shuttles based on the vanilla passenger shuttle (Building_PassengerShuttle).
+
+[h1]Additional Information[/h1]
+[list]
+[*]Please report bugs in the comments - detailed logs, mod lists, and other information help me fix them more effectively!
+[*]If you need more language versions, I've left corresponding translation keys in the localization files - feel free to translate them!
+[*]Positive ratings are very helpful to me - thank you!
+[/list]

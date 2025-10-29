@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- ZH-->
+    <RimElShrineShuttleMod>穿梭机燃料Mod</RimElShrineShuttleMod>
+    <!-- Refuel-->
+    <AutoRefuel>切换自动补充</AutoRefuel>
+    <AutoRefuelDesc>切换自动补充燃料，会按照设定的燃料水平从库存中自动补充</AutoRefuelDesc>
+    <AutoRefuelLevel>设置燃料水平</AutoRefuelLevel>
+    <AutoRefuelLevelDesc>设置自动从库存中补充燃料的燃料水平</AutoRefuelLevelDesc>
+    <!-- Msg-->
+    <AutoRefueledFullMsg>已自动从库存中补充{0}单位燃料至穿梭机，已补充至目标燃料量{1}</AutoRefueledFullMsg>
+    <AutoRefueledMsg>已自动从库存中补充{0}单位燃料至穿梭机，库存不足以补充到目标燃料量{1}</AutoRefueledMsg>
+
+    <!-- EmgTrade-->
+    <EmgTrade>呼叫燃料</EmgTrade>
+    <EmgTradeDesc>向附近的某一定居点呼叫进行紧急燃料贸易，燃料会被直接送达你的远行队</EmgTradeDesc>
+    <EmgTradeDisabledReason>当前远行队或穿梭机中还有存足够的燃料</EmgTradeDisabledReason>
+    <FoundNoEmgFuelTrader>未找到其他的燃料供应商</FoundNoEmgFuelTrader>
+    <NoNegotiatorNotice>无法完成：穿梭机或远行队中没有可进行交易谈判的殖民者</NoNegotiatorNotice>
+    <SendNewEmgChemfuelTrader>呼叫来自其他定居点的燃料商</SendNewEmgChemfuelTrader>
+    <CurrentFuelTradersListNotice>当前有来自以下定居点的燃料商可用：</CurrentFuelTradersListNotice>
+</LanguageData>
