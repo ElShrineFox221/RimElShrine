@@ -40,6 +40,8 @@ namespace RimElShrine.Apparels.ApparelShield
                         Break();
                     }
                 }
+                else if (dinfo.Def == DamageDefOf.Extinguish)
+                    return;
                 else if (EnviroDmgDefs.Contains(dinfo.Def) && Props.CurrentIndexInfo.absorbEnviromental)
                 {
                     energyLoss *= Setting.DmgEnviromentalFactor * Props.CurrentIndexInfo.absorbEnviromentalFactor;
